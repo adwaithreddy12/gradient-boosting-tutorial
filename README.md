@@ -4,7 +4,7 @@ RF 86.7% beats XGBoost - ML Assignment
 
 **RF 86.7% beats XGBoost 86.4%** - ML Assignment
 
-**Author:** Lethakula Adwaith Reddy | 
+**Author:** Lethakula Adwaith Reddy | (https://github.com/adwaithreddy12/gradient-boosting-tutorial.git)
 
 ## 📊 Key Results
 | Model | CV Accuracy | Best Config |
